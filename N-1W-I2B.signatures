@@ -1,0 +1,23 @@
+[
+  {
+    "header": "The parties are signing this agreement on the dates by their signatures.",
+    "information": [
+      "date",
+      "email",
+      "address"
+    ],
+    "term": "Disclosing Party"
+  },
+  {
+    "header": "The parties are signing this agreement on the dates by their signatures.",
+    "entities": [
+      {}
+    ],
+    "information": [
+      "date",
+      "email",
+      "address"
+    ],
+    "term": "Receiving Party"
+  }
+]
